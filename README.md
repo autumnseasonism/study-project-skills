@@ -79,6 +79,10 @@ study-project-skills/
 - Learn prompt engineering practices from top open-source projects
 - Audit LLM usage across a project
 
+## Acknowledgments
+
+This project is inspired by and built upon [howPrompt](https://github.com/comeonzhj/howPrompt) by [@comeonzhj](https://github.com/comeonzhj) — a prompt that drives Claude Code to analyze open-source projects. Thanks for the great work!
+
 ## License
 
 [MIT](LICENSE)

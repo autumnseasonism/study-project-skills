@@ -79,6 +79,10 @@ study-project-skills/
 - 学习优秀开源项目的 Prompt Engineering 实践
 - 对项目进行 LLM 使用审计
 
+## 致谢
+
+本项目基于 [@comeonzhj](https://github.com/comeonzhj) 的 [howPrompt](https://github.com/comeonzhj/howPrompt) 改造而来。howPrompt 是一个驱动 Claude Code 拆解开源项目的提示词，为本项目提供了核心思路和灵感。感谢原作者的开源贡献！
+
 ## 许可证
 
 [MIT](LICENSE)
